@@ -1,0 +1,8 @@
+path: C:/Users/sudip/OneDrive/Desktop/Helmet Detection/EdgeVision
+train: images
+val: images
+
+names:
+  0: BikeWithRider
+  1: Helmet
+  2: NoHelmet
